@@ -8,7 +8,7 @@ class Ogre18 < Formula
 
   url 'http://downloads.sourceforge.net/project/ogre/ogre/1.8/1.8.1/ogre_src_v1-8-1.tar.bz2'
   version '1.8.1'
-  sha256 '525d871b3461d8f6735769250715b92ae4faee3dc329fabe6fd6f18147f23adc'
+  sha256 'da908ac934265d25e378d336d648327afe569a758ef262029acd357d506f6aab'
 
 #  url 'https://bitbucket.org/sinbad/ogre/get/v1-9-0.tar.gz'
 #  version '1.9.0'
