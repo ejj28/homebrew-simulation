@@ -18,7 +18,7 @@ class Ogre18 < Formula
 
   patch do
     url 'https://gist.githubusercontent.com/NikolausDemmel/dad2dec7e52bed7c1bec/raw/f1bde5b93aa3f13780f7494f84dd3c76dd57c360/fixogre1.8.patch'
-    sha1 '0f9f15bfcb2296a7a12017acd2668594958bffe7'
+    sha256 '1bde75983899f8710721c3f8094fd7bfa96458ce028614efd3bc7b25de37fe48'
   end
 
   depends_on 'boost'
